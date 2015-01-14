@@ -4,6 +4,11 @@ A simple Microsoft Word .docx reader for Python.
 
 Parses paragraphs, graphics, and inline equations (to tex)
 
+Requirements
+------------
+-    python 2.7
+-    lxml>=3.4.1
+
 Installation
 ------------
 
