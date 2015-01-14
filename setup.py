@@ -7,4 +7,5 @@ setup(name='python-docx-reader',
       description='A .docx format reader for Python',
       author='Ravi Budhu',
       packages=['docx'],
+      package_data={'docx': ['xsl/*.xsl']},
       )
